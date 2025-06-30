@@ -36,11 +36,11 @@ OFDM is a popular multicarrier modulation technique widely used in wireless comm
 
 ## License
 
-Specify your license here (e.g., MIT License) or state if proprietary.
+This project is licensed under the MIT License 
 
 ## Contact
 
-For questions or suggestions, please open an issue or contact [your email or GitHub handle].
+For questions or suggestions, please open an issue or contact me on GitHub: [@saichethana28](https://github.com/saichethana28)
 
 ---
 
